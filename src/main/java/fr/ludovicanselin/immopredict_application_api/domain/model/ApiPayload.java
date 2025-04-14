@@ -1,4 +1,4 @@
-package fr.ludovicanselin.immopredict_application_api.model;
+package fr.ludovicanselin.immopredict_application_api.domain.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
