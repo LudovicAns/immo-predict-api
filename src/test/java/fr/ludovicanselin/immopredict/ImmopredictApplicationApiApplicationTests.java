@@ -1,4 +1,4 @@
-package fr.ludovicanselin.immopredict_application_api;
+package fr.ludovicanselin.immopredict;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
